@@ -194,12 +194,6 @@ This collection is compiled for:
 - The open-source community for sharing knowledge
 - Contributors who helped build this collection
 
-## 📬 Contact
-
-**Sayed Allam**
-- GitHub: [@sayedallam](https://github.com/sayedallam)
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
 
 ## 📈 Collection Statistics
 
