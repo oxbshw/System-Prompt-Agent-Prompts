@@ -353,10 +353,6 @@ We recognize valuable contributions through:
 - **General Questions**: Use GitHub Discussions
 - **Private Concerns**: Email the maintainer
 
-### Maintainer Contact
-- **GitHub**: [@sayedallam](https://github.com/sayedallam)
-- **Email**: [Your email]
-- **Response Time**: Usually within 48 hours
 
 ---
 
